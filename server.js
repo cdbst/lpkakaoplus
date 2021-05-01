@@ -28,9 +28,9 @@ const h2_server_list = { 1 : '플레이볼',
                         9 : '명예의전당',
                         10 : '퍼펙트게임'}; 
 
-setInterval(function() {
-    http.get("http://lpkakaoplus.herokuapp.com/");
-}, 300000); // every 5 minutes (300000) heartbeat..
+// setInterval(function() {
+//     http.get("http://localhost:" + process.env.PORT || 8080);
+// }, 300000); // every 5 minutes (300000) heartbeat..
 
 //google spread-sheet test code.
 // gss.run(function(err){
