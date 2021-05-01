@@ -45,16 +45,16 @@ setInterval(function() {
 //     console.log('boot-step1. <success> run lpkakaoplus-gss success!');
 // });
 
-db.run(process.env.MONGODB_URI, function(err){
+// db.run(process.env.MONGODB_URI, function(err){
 
-    if(err){
-        console.log('boot-step2. <fail> db connection error!');
-        is_db_run = false;
-    }else{
-        console.log('boot-step2. db connection success!');
-        is_db_run = true;
-    }
-});
+//     if(err){
+//         console.log('boot-step2. <fail> db connection error!');
+//         is_db_run = false;
+//     }else{
+//         console.log('boot-step2. db connection success!');
+//         is_db_run = true;
+//     }
+// });
 
 gss_v4.run(function(err){
     
