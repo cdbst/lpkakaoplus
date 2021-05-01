@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lpkakaoplus",
+  "private_key_id": "c29f633ae969e7c2877cdeeda4c200267b6def0b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdWAVnhfUhXriV\ntUgyuvl9VKtzOGahJ/yEDfZAC7IyA6ETMqfAACANNb8cEE5/jwnJKNSrgWfIknEW\n/QryHr1FzB7m9f+rBSDR5UpzPOMkvkRdc5wTtwwPSDtvyHNWl78MhYrMJkseyoHq\nXarqiiD6f/6pyxdUzYLQjWFgiNpWgJMpTu3pBVOLfafa0Jh4abWzfKqGgYLYwC6f\n6m3rCAxuEOFCv+P0raI37YOrsRqWpAmTbjjFEAc7uWGCS4EurJOzU5Se2SAgPt/Q\nU9QShI6zULxaiGAfKxEnk67imFYQmeV1VdcJONrCiyljOQGKVgYXOwBOMqGLxi11\n8QqEoHlrAgMBAAECggEAB2Xvnx3/2ClVgYiMFAKRn5B/HUROIw63w1fKt9k08EAW\nb0om9BKtbyGTUlT78+h8W86FLWlAwYANPDj6rka+vIzr+Q0hD+AGWogu93sp7Pzb\nRw+cC5tEQGWzkb55md05uPOAgrfcOV7pO+Val3uWMGEbTs2DU9Pz7i1vojPdHEsN\nbXLO7Nv97lSYWih6qMp7J6m+7RSEgPGZpugVQRM75x6GWx8QM9JN3QVKlH75QLKy\nc8fNqrhS+vwnH6X0hGOhJuX/BSvilXpsc/3gkgUeZYW1BmnpZaqAI/uOQRpq1ZwQ\nXOKdlFaVc5VYcwH4sfBq3VXCvFK6+Sf2aq2bB8KZGQKBgQDba8OekULoxTPhsQ4i\nEzYtjrM5Zr//KgTxgdc09HFVskrSxwt0QwSfG5vNYJXd85IYDCF4NgQ4LD9yopfh\nPNRalCL9uHKyXSLGqcAGej5qgX4K0jiRIHv5tRUOpk4nF8X1HBZts8pTpdoELgLP\n9Kq81yeoRJ/YditD7TIa8VGPEwKBgQC3kv1NIJqEK06TzDrFtftAhRSpAeUFyI89\n5/kKQtqWzYQ4d1mbXDcunZ1i5v6t8GB60G1n1MoeycOc5NiJ2/u8IYuQnSJzdthQ\nR2gZiQOFYd/GKrs9+n9BcZskmsZjTtIHx8hdqlKByAMuO91I+mPQr3h7y3oBC7lv\n0MVwpVM/SQKBgQCjZejTGJGfDdvI4jUIIw5hdrb4tA+eUQhFYM+GW9JaYt9df2SE\nO7QhWEn580cndc8BoWb7Qh56RlkpYPOBg+8PVOmJz+V59emDz710FWyNm8jk/g+p\n42rvVW5M7oOckROVqEj7gLvW9tcX7buiaS0MW5zordHrPHSTrPt3HOYDiQKBgQCv\n92lxVjBnQzAGQr2PqZqXRToBq3xCZ/bOy58Qc/cemRAGJHmzj9ihiZpFJNG6H/IL\np+FHp1S74IHu0fqzYzhSJQGodMeCUMiXY2tpFspWP/SF+44Sohz7uY+Srf4/UV3I\n8XuiNVLzbquF1QKQItwtPRZL7Ecd24Q8p62rBf7faQKBgATTeG2yeYk3H02iDKNx\nTMl/fnhSYCLH4bHwn444zn/WNCcKe7DlANtXjcRf8ddflGYOIaOYMrr9xBzBq+kZ\nCyIlhRk+C8GtQMnSilJj6yXpmyLSLMylIyvSFznUSyLGaRAgixpHSjumYiXhxrsJ\nEWnhjpe2R1r16fw8560GoPhc\n-----END PRIVATE KEY-----\n",
+  "client_email": "lpkakaoplus@lpkakaoplus.iam.gserviceaccount.com",
+  "client_id": "112248768560607846246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lpkakaoplus%40lpkakaoplus.iam.gserviceaccount.com"
+}
