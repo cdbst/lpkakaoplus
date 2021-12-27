@@ -566,7 +566,7 @@ api_router.post('/redeem', function (req, res) {
         return;
     }
 
-    char_list = Array.from(new Set(char_list.split('\n'))); // removal duplication.
+    char_list = Array.from(new Set(char_list.split(' '))); // removal duplication.
     var char_list_cnt = Math.min(char_list.length, 30);
     var char_obj_list = new Array(char_list_cnt);
 
