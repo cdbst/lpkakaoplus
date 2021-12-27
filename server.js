@@ -560,6 +560,7 @@ api_router.post('/redeem', function (req, res) {
     var server_num = req.body.action.params.server_num;
     var redeem_code = req.body.action.params.redeem_code;
     var char_list = req.body.action.params.char_list;
+    console.log(char_list);
 
     if(server_num == null || redeem_code == null || char_list == null){
         res_to_kakao_server(res, "client request error (invalid client information)");
